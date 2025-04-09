@@ -53,8 +53,8 @@ Here are some versions of our tagline and description:
 ## 👤 Join or Follow Us
 
 We’re always open to contributors, testers, and idea sharers!  
-🌐 [blackblazent.com](https://yourdomain.com)  
-📧 hello@blackblazent.com
+🌐 [blackblazent.com]( www-blackblazent-com.vercel.app )  
+📧 blackblazent@gmail.com
 
 ---
 
