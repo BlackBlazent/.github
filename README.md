@@ -1,6 +1,6 @@
 # 🔹 Welcome to BlackBlazent
 
-**BlackBlazent** is an independent software organization creating hybrid, cross-platform apps from scratch — designed with passion, purpose, and precision.
+**BlackBlazent** is an independent software organization creating hybrid, cross-platform apps — designed with passion, purpose, and precision.
 
 ---
 
