@@ -49,7 +49,7 @@ Every application created under **BlackBlazent** is built with a clear purpose. 
 
 | Icon | Project Name | Description | Tech Stack |
 |------|---------|-------------|------------|
-| ![🎵](https://twemoji.maxcdn.com/v/latest/svg/1f3b5.svg) | BlackMusic | Music Ultra Superior Integrated Catalog. A music player designed to deliver an unparalleled audio experience. BlackMusic integrates a vast catalog of music with superior playback capabilities. | Undisclosed |
+| <img src="https://github.com/BlackBlazent/.github/blob/main/public/assets/icons/bmusic/bmusic.png" width="80px" height="80px"/> | BlackMusic | Music Ultra Superior Integrated Catalog. A music player designed to deliver an unparalleled audio experience. BlackMusic integrates a vast catalog of music with superior playback capabilities. | Undisclosed |
 | ![🖼️](https://twemoji.maxcdn.com/v/latest/svg/1f5bc.svg) | BlackVideo | BlackVideo - Black : Versatile Integrated Demi Empowerment Optimum—Player. A video player with integration of wide variety of playback functionalities. | Undisclosed |
 | ![📸](https://twemoji.maxcdn.com/v/latest/svg/1f4f8.svg) | BlackGallery | A comprehensive and innovative gallery app designed to showcase and organize your visual content in the most efficient and appealing way possible. With a focus on delivering a luminous and vibrant display, it serves as a library for your images, providing an extensive collection of features to enhance your viewing experience. | Undisclosed |
 | ![🧰](https://twemoji.maxcdn.com/v/latest/svg/1f9f0.svg) | BlackMiscellen | An Integrated Miscellaneous tools. | Undisclosed |
