@@ -49,18 +49,10 @@ Every application created under **BlackBlazent** is built with a clear purpose. 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎵 BlackMusic | Hybrid music player with offline/online support | Electron, JavaScript, SQLite |
-| 🖼️ BlackGallery | A creative gallery viewer with tagging | Flet (Python), SQLite |
-| 📹 VidVoyant | Short video generation tool with script builder | Python, Flet, AI APIs |
-
----
-
-## 🛠️ Technologies We Use
-
-- 🧱 **Hybrid Frameworks**: Electron, Flet, Flutter
-- 💾 **Databases**: SQLite, IndexedDB
-- 🎨 **Design Tools**: Figma, CSS3, Tailwind
-- 🔌 **APIs**: OpenAI, Anthropic, Billboard, etc.
+| 🎵 BlackMusic | Music Ultra Superior Integrated Catalog. A music player designed to deliver an unparalleled audio experience. BlackMusic integrates a vast catalog of music with superior playback capabilities. | Proprietary |
+| 🖼️ BlackVideo | BlackVideo - Black : Versatile Integrated Demi Empowerment Optimum—Player. A video player with integration of wide variety of playback functionalities. | Proprietary |
+| 📹 BlackGallery |  is a comprehensive and innovative gallery app designed to showcase and organize your visual content in the most efficient and appealing way possible. With a focus on delivering a luminous and vibrant display, it serves as a library for your images, providing an extensive collection of features to enhance your viewing experience. | Proprietary |
+| 📹 BlackMiscellen |  An Integrated Miscellaneous tools.  | Proprietary |
 
 ---
 
