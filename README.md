@@ -65,7 +65,7 @@ We’re always open to contributors, testers, and idea sharers!
 
 | Purpose                               | Given Email                                                |
 | ------------------------------------- | -------------------------------------------------------------- |
-| **Main** (official use, CEO, founder) | `blackblazent@gmail.com`                                      |
+| **Main** | `blackblazent@gmail.com`                                      |
 | **Customer Support**                  | `blackblazent.customer.service@gmail.com`                     |
 | **Billing & Payments**                | `blackblazent.billing@gmail.com` |
 | **Legal or Compliance**               | `blackblazent.legal@gmail.com`     |
