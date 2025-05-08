@@ -60,8 +60,44 @@ Every application created under **BlackBlazent** is built with a clear purpose. 
 ## 👤 Join or Follow Us
 
 We’re always open to contributors, testers, and idea sharers!  
-🌐 [blackblazent.com]( www-blackblazent-com.vercel.app )  
-📧 blackblazent@gmail.com
+
+### 🔧 General & Administrative
+
+| Purpose                               | Suggested Email                                                |
+| ------------------------------------- | -------------------------------------------------------------- |
+| **Main** (official use, CEO, founder) | `blackblazent@gmail.com` ✅                                     |
+| **Customer Support**                  | `blackblazent.customer.service@gmail.com` ✅                    |
+| **Billing & Payments**                | `billing@blackblazent.com` or `blackblazent.billing@gmail.com` |
+| **Legal or Compliance**               | `legal@blackblazent.com` or `blackblazent.legal@gmail.com`     |
+| **General Inquiries**                 | `info@blackblazent.com` or `blackblazent.info@gmail.com`       |
+
+---
+
+### 🧑‍💻 Development & Technical
+
+| Purpose                            | Suggested Email                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------- |
+| **Developer Support**              | `dev@blackblazent.com` or `blackblazent.dev@gmail.com`                  |
+| **Technical Issues / Bug Reports** | `support.tech@blackblazent.com` or `blackblazent.techsupport@gmail.com` |
+
+---
+
+### 📣 Marketing & Outreach
+
+| Purpose                           | Suggested Email                                                    |
+| --------------------------------- | ------------------------------------------------------------------ |
+| **Marketing Team**                | `marketing@blackblazent.com` or `blackblazent.marketing@gmail.com` |
+| **Partnerships / Collaborations** | `partners@blackblazent.com` or `blackblazent.partners@gmail.com`   |
+| **Press / Media Inquiries**       | `press@blackblazent.com` or `blackblazent.press@gmail.com`         |
+
+---
+
+### 🧪 Product & Feedback
+
+| Purpose                             | Suggested Email                                                  |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| **Product Feedback**                | `feedback@blackblazent.com` or `blackblazent.feedback@gmail.com` |
+| **Beta Testers / Test Environment** | `beta@blackblazent.com` or `blackblazent.beta@gmail.com`         |
 
 ---
 
