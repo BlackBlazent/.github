@@ -57,6 +57,73 @@ Every application created under **BlackBlazent** is built with a clear purpose. 
 
 ---
 
+# Diagram
+
+```mermaid
+flowchart TB
+    %% External Parties
+    Dev["Developer Workstation"]:::external
+    EndUser["End-User Environment<br/>(CLI or Desktop App)"]:::external
+
+    %% Documentation
+    subgraph "Project Documentation"
+        README["README.md"]:::external
+        License["LICENSE"]:::external
+        GitIgnore[".gitignore"]:::external
+    end
+
+    Dev -->|references| README
+    Dev -->|references| License
+    Dev -->|references| GitIgnore
+
+    %% Build Pipeline
+    Dev --> Build["Build Script / Makefile"]:::tooling
+
+    Build -->|invokes| FortranCompiler["Fortran Compiler Toolchain"]:::code
+    FortranCompiler --> Executable["Executable Binary"]:::code
+
+    %% Source Code
+    SourceCode["blackblazent.f90"]:::code
+    Build -->|compiles| SourceCode
+    SourceCode --> FortranCompiler
+
+    %% Assets
+    subgraph "Static Assets Bundle"
+        AssetsDir["public/assets/icons"]:::assets
+        AssetManifest["icon.list.yml"]:::assets
+    end
+
+    Build -->|bundles| AssetsDir
+    Build -->|bundles| AssetManifest
+
+    %% Packaging
+    Executable --> Packager["Packager / Distributor"]:::tooling
+    AssetsDir --> Packager
+    AssetManifest --> Packager
+
+    Packager --> Package["Cross-platform Package"]:::tooling
+    Package --> EndUser
+
+    %% Extensibility Note
+    Extensibility["YAML manifest enables adding icons without code changes"]:::note
+    AssetManifest --> Extensibility
+
+    %% Click Events
+    click SourceCode "https://github.com/blackblazent/.github/blob/main/blackblazent.f90"
+    click AssetsDir "https://github.com/blackblazent/.github/tree/main/public/assets/icons"
+    click AssetManifest "https://github.com/blackblazent/.github/blob/main/public/assets/icons/icon.list.yml"
+    click README "https://github.com/blackblazent/.github/blob/main/README.md"
+    click License "https://github.com/blackblazent/.github/tree/main/LICENSE"
+    click GitIgnore "https://github.com/blackblazent/.github/blob/main/.gitignore"
+
+    %% Styles
+    classDef code fill:#BBE1FA,stroke:#3282B8,color:#000
+    classDef tooling fill:#FFDFA8,stroke:#FFAA1D,color:#000
+    classDef assets fill:#C4E1C1,stroke:#2F8F2F,color:#000
+    classDef external fill:#E0E0E0,stroke:#999,color:#000
+    classDef note fill:#FFF3B0,stroke:#CCA300,color:#000
+```
+
 ## 👤 Join or Follow Us
 
 We’re always open to contributors, testers, and idea sharers!  
