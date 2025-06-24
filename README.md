@@ -2,6 +2,10 @@
 
 **BlackBlazent** is an independent software organization creating hybrid, cross-platform apps — designed with passion, purpose, and precision.
 
+
+[![Join me on daily.dev](https://img.shields.io/badge/daily.dev-Join%20Now-blueviolet?logo=daily.dev&logoColor=white&style=for-the-badge)](https://dly.to/HJTKpTQR4Ql)
+
+
 ---
 
 ## 🚀 About Us
