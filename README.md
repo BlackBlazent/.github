@@ -60,11 +60,10 @@ Every application created under **BlackBlazent** is built with a clear purpose. 
 | Icon | Project Name | Description | Version | Tech Stack |
 |------|--------------|-------------|---------|------------|
 | <img src="https://github.com/BlackBlazent/.github/blob/main/public/assets/icons/bmusic/bmusic.png" width="80px" height="80px"/> | [BlackMusic](https://github.com/BlackBlazent/BlackMusic.git) | Music Ultra Superior Integrated Catalog. A music player designed to deliver an unparalleled audio experience. BlackMusic integrates a vast catalog of music with superior playback capabilities. | v1.1.01.001.0001 | Undisclosed |
-| ![🖼️](https://twemoji.maxcdn.com/v/latest/svg/1f5bc.svg) | [BlackVideo](https://github.com/BlackBlazent/BlackVideo.git) | BlackVideo - Black : Versatile Integrated Demi Empowerment Optimum—Player. A video player with integration of wide variety of playback functionalities. | v1.0.0 | Undisclosed |
+| <img src="https://github.com/BlackBlazent/BlackVideo/raw/blackvideo-master/.github/repo_assets/BlackVideo.png" width="80px" height="80px"/> | [BlackVideo](https://github.com/BlackBlazent/BlackVideo.git) | BlackVideo - Black : Versatile Integrated Demi Empowerment Optimum—Player. A video player with integration of wide variety of playback functionalities. | v1.0.0 | Undisclosed |
 | ![📸](https://twemoji.maxcdn.com/v/latest/svg/1f4f8.svg) | [BlackGallery](https://github.com/BlackBlazent/BlackGallery.git) | A comprehensive and innovative gallery app designed to showcase and organize your visual content in the most efficient and appealing way possible. With a focus on delivering a luminous and vibrant display, it serves as a library for your images, providing an extensive collection of features to enhance your viewing experience. | v1.0.0 | Undisclosed |
 | ![🧰](https://twemoji.maxcdn.com/v/latest/svg/1f9f0.svg) | [BlackMiscellen](https://github.com/BlackBlazent/BlackMiscellen.git) | An Integrated Miscellaneous tools. | v1.0.0 | Undisclosed |
-
-
+ 
 ---
 
 # Diagram
