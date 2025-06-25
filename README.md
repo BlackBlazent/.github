@@ -4,7 +4,13 @@
 
 
 [![Join me on daily.dev](https://img.shields.io/badge/daily.dev-Join%20Now-blueviolet?logo=daily.dev&logoColor=white&style=for-the-badge)](https://dly.to/HJTKpTQR4Ql)
-
+[![Join Discord](https://img.shields.io/discord/1247152717299326996?color=5865F2&label=Discord%20%7C%20BlackBlazent&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/MNkB2Pr7)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+g3J3-sApBIAwOWl1)
+[![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=61565193375253)
+[![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/groups/1240579097510491/)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2FBlackBlazers-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/r/BlackBlazers/)
+[![VK](https://img.shields.io/badge/VK-BlackBlazent-4680C2?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/blackblazent?from=groups)
+[![OK.ru](https://img.shields.io/badge/OK.ru-BlackBlazent-EF7F1A?logo=odnoklassniki&logoColor=white&style=for-the-badge)](https://ok.ru/group/70000038717846)
 
 ---
 
